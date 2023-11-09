@@ -1,4 +1,4 @@
-# BaseProject
+# BaseProject - Back-End
 
 Projeto backend de base para desenvolvimento de novos projetos (.NET Core 6)
 
